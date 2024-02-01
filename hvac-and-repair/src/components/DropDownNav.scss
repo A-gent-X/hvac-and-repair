@@ -1,0 +1,9 @@
+.dropdown-navbar{
+  display: flex;
+  flex-direction: column;
+  .dropdown-navlist{
+    display: flex;
+    flex-direction: column;
+    gap: 4;
+  }
+}
