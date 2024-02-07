@@ -4,48 +4,6 @@ const RandomFile = () => {
   return (
     <div>
     <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
-    <h1>Random File</h1>
     </div>
   )
 }
