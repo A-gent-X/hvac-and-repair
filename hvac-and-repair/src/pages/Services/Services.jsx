@@ -4,11 +4,7 @@ import './Services.scss'
 
 //Hooks
 import { useState } from 'react'
-
-//Components
-import DropDownNav from '../../components/DropDownNav'
-
-
+import ServiceFile from '../../components/ServiceFile'
 
 
 const Services = () => {
@@ -20,6 +16,7 @@ const Services = () => {
   
   return (
     <div className='service-folder'>
+      <ServiceFile />
       <form className='service-form' onSubmit={handleSubmit(event)}>
         <div className='place-holder'>
           <input className='input-bar' placeholder=''></input>
